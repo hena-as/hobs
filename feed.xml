@@ -10,6 +10,27 @@
     <id>https://hobs.no</id>
 
     <entry>
+        <title>Personvernerklæring</title>
+        <author>
+            <name>Henning Harmens</name>
+        </author>
+        <link href="https://hobs.no/privacy.html"/>
+        <id>https://hobs.no/privacy.html</id>
+
+        <updated>2020-08-31T16:52:09+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Denne personvernerklæringen gjelder bruk av appen HOBS. Denne versjonen av appen er kun til bruk i forskning. Data om brukermønster vil bli overført til Tjeneste for Sikker Databehandling (TSD) ved Universitetet i Oslo. Annen utveksling av data foregår ikke. HOBS tildeles kun til brukere som&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Denne personvernerklæringen gjelder bruk av appen HOBS.</p>
+<p>Denne versjonen av appen er kun til bruk i forskning. Data om brukermønster vil bli overført til<br>Tjeneste for Sikker Databehandling (TSD) ved Universitetet i Oslo. Annen utveksling av data foregår<br>ikke. HOBS tildeles kun til brukere som har fått egen tilgangskode og har skrevet under på<br>samtykkeerklæring i studien. Detaljerte opplysninger om hvilke data som samles er gitt spesifikt til<br>deltagerne.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Helsepersonell</title>
         <author>
             <name>Henning Harmens</name>
@@ -17,7 +38,7 @@
         <link href="https://hobs.no/helsepersonell.html"/>
         <id>https://hobs.no/helsepersonell.html</id>
 
-        <updated>2020-08-31T16:51:01+02:00</updated>
+        <updated>2020-08-31T16:52:09+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://hobs.no/media/posts/8/lytte-med-stetoskop-9.8.jpeg" alt="" />
@@ -45,7 +66,7 @@
         <link href="https://hobs.no/foreldre-og-parorende.html"/>
         <id>https://hobs.no/foreldre-og-parorende.html</id>
 
-        <updated>2020-08-31T16:51:01+02:00</updated>
+        <updated>2020-08-31T16:52:09+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://hobs.no/media/posts/7/iStock-829378958.jpg" alt="" />
@@ -82,7 +103,7 @@
         <link href="https://hobs.no/hobs.html"/>
         <id>https://hobs.no/hobs.html</id>
 
-        <updated>2020-08-31T16:51:01+02:00</updated>
+        <updated>2020-08-31T16:52:09+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://hobs.no/media/posts/6/Bildesovende-baby-og-app.png" alt="" />
@@ -165,7 +186,7 @@
         <link href="https://hobs.no/om-oss.html"/>
         <id>https://hobs.no/om-oss.html</id>
 
-        <updated>2020-08-31T16:51:01+02:00</updated>
+        <updated>2020-08-31T16:52:09+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://hobs.no/media/posts/2/testbilde-2.jpg" alt="" />
@@ -206,7 +227,7 @@
         <link href="https://hobs.no/kontakt.html"/>
         <id>https://hobs.no/kontakt.html</id>
 
-        <updated>2020-08-31T16:51:01+02:00</updated>
+        <updated>2020-08-31T16:52:09+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://hobs.no/media/posts/1/iStock-618545588.jpg" alt="" />

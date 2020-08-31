@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://hobs.no/privacy.html",
+            "url": "https://hobs.no/privacy.html",
+            "title": "Personvernerklæring",
+            "summary": "Denne personvernerklæringen gjelder bruk av appen HOBS. Denne versjonen av appen er kun til bruk i forskning. Data om brukermønster vil bli overført til Tjeneste for Sikker Databehandling (TSD) ved Universitetet i Oslo. Annen utveksling av data foregår ikke. HOBS tildeles kun til brukere som&hellip;",
+            "content_html": "<p>Denne personvernerklæringen gjelder bruk av appen HOBS.</p>\n<p>Denne versjonen av appen er kun til bruk i forskning. Data om brukermønster vil bli overført til<br>Tjeneste for Sikker Databehandling (TSD) ved Universitetet i Oslo. Annen utveksling av data foregår<br>ikke. HOBS tildeles kun til brukere som har fått egen tilgangskode og har skrevet under på<br>samtykkeerklæring i studien. Detaljerte opplysninger om hvilke data som samles er gitt spesifikt til<br>deltagerne.</p>",
+            "author": {
+                "name": "Henning Harmens"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-08-31T16:52:09+02:00",
+            "date_modified": "2020-08-31T16:52:09+02:00"
+        },
+        {
             "id": "https://hobs.no/helsepersonell.html",
             "url": "https://hobs.no/helsepersonell.html",
             "title": "Helsepersonell",
@@ -22,8 +36,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-08-31T16:51:01+02:00",
-            "date_modified": "2020-08-31T16:51:01+02:00"
+            "date_published": "2020-08-31T16:52:09+02:00",
+            "date_modified": "2020-08-31T16:52:09+02:00"
         },
         {
             "id": "https://hobs.no/foreldre-og-parorende.html",
@@ -37,8 +51,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-08-31T16:51:01+02:00",
-            "date_modified": "2020-08-31T16:51:01+02:00"
+            "date_published": "2020-08-31T16:52:09+02:00",
+            "date_modified": "2020-08-31T16:52:09+02:00"
         },
         {
             "id": "https://hobs.no/hobs.html",
@@ -52,8 +66,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-08-31T16:51:01+02:00",
-            "date_modified": "2020-08-31T16:51:01+02:00"
+            "date_published": "2020-08-31T16:52:09+02:00",
+            "date_modified": "2020-08-31T16:52:09+02:00"
         },
         {
             "id": "https://hobs.no/om-oss.html",
@@ -67,8 +81,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-08-31T16:51:01+02:00",
-            "date_modified": "2020-08-31T16:51:01+02:00"
+            "date_published": "2020-08-31T16:52:09+02:00",
+            "date_modified": "2020-08-31T16:52:09+02:00"
         },
         {
             "id": "https://hobs.no/kontakt.html",
@@ -82,8 +96,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-08-31T16:51:01+02:00",
-            "date_modified": "2020-08-31T16:51:01+02:00"
+            "date_published": "2020-08-31T16:52:09+02:00",
+            "date_modified": "2020-08-31T16:52:09+02:00"
         }
     ]
 }
