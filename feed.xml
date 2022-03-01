@@ -3,7 +3,7 @@
     <title>HOBS</title>
     <link href="https://hobs.no/feed.xml" rel="self" />
     <link href="https://hobs.no" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2022-03-01T11:13:06+01:00</updated>
     <author>
         <name>Henning Harmens</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://hobs.no/privacy.html"/>
         <id>https://hobs.no/privacy.html</id>
 
-        <updated>2021-06-10T08:54:56+02:00</updated>
+        <updated>2020-09-08T12:17:30+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://hobs.no/media/posts/10/FFHB_symbol_roed_graa.jpg" alt="" />
@@ -33,6 +33,77 @@
         </content>
     </entry>
     <entry>
+        <title>Helsepersonell</title>
+        <author>
+            <name>Henning Harmens</name>
+        </author>
+        <link href="https://hobs.no/helsepersonell.html"/>
+        <id>https://hobs.no/helsepersonell.html</id>
+
+        <updated>2022-03-01T10:36:06+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://hobs.no/media/posts/8/lytte-med-stetoskop-9.8.jpeg" alt="" />
+                    Hvert år fødes ca 125 barn med alvorlig medfødt hjertefeil. Noen barn har akutte episoder hjemme og foreldre sier det er vanskelig å gjenkjenne symptomer på forverring. Hvordan kan HOBS bidra? HOBS er laget for foreldrene, men vi håper at appen kan bidra med lettere&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://hobs.no/media/posts/8/lytte-med-stetoskop-9.8.jpeg" alt="" />
+                <p>Hvert år fødes ca 125 barn med alvorlig medfødt hjertefeil. Noen barn har akutte episoder hjemme og foreldre sier det er vanskelig å gjenkjenne symptomer på forverring.  </p>
+<p><strong>Hvordan kan HOBS bidra?</strong></p>
+<p>HOBS er laget for foreldrene, men vi håper at appen kan bidra med lettere tilgang til tilpasset og kvalitetssikret informasjon for helsepersonell, samt gi støtte til vurderinger og kommunikasjon i kontakt med foreldre og kontinuiteten i helsetjenestene rundt familiene kan potensielt bli mer strømlinjeformet.</p>
+<p>Mobilapplikasjon som støtte og veiledningsverktøy er en ny arbeidsform som har mange fordeler sammenlignet med dagens praksis. Vår målsetning for HOBS er at den skal kunne bidra med følgende:</p>
+<ul>
+<li>Systematisere innholdet i veiledningen fra helsepersonell slik at variasjon i kvaliteten på ulike tjenestenivå kan reduseres</li>
+<li>Bidra til mer brukerstyrt og individuell <span style="font-size: 18.4px;">veiledning</span></li>
+<li>Hjelpe foreldre å bli bedre kjent med sitt eget barns tilstand, og øke sin kompetanse i vurdering av barnet</li>
+<li>Vise vurderinger og målinger i kurver og grafer slik at langsomme endringer kan fanges opp</li>
+<li>Felles forståelse i kommunikasjon og samarbeid mellom foreldre og helsepersonell</li>
+<li>Gjøre kvalitetssikret informasjon, vurdering og beslutningsstøtte lett tilgjengelig når foreldre ønsker å gjøre en vurdering ved uventet forverring hjemme</li>
+</ul>
+<figure class="post__image"><img loading="lazy"  src="https://hobs.no/media/posts/8/DSC00219-2.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://hobs.no/media/posts/8/responsive/DSC00219-2-xs.jpg 300w ,https://hobs.no/media/posts/8/responsive/DSC00219-2-sm.jpg 480w ,https://hobs.no/media/posts/8/responsive/DSC00219-2-md.jpg 768w ,https://hobs.no/media/posts/8/responsive/DSC00219-2-lg.jpg 1024w ,https://hobs.no/media/posts/8/responsive/DSC00219-2-xl.jpg 1360w ,https://hobs.no/media/posts/8/responsive/DSC00219-2-2xl.jpg 1600w"  alt="Illustrasjonsfoto Elin Hjorth-Johansen" width="4087" height="2296"></figure>
+<p><strong>Tilgang til HOBS-App</strong><br>Helsepersonell får <span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">tilgang til en kode til HOBS via sin leder/fagsykepleier eller ved å <a href="https://hobs.no/kontakt.html">kontakte oss i prosjektet</a>. Det er viktig at denne koden ikke deles med foreldre fordi HOBS ikke er ferdig kvalitetssikret og evaluert. Det  er </span><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">bare </span><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">foreldre i forskningsprosjektet som skal bruke appen til sitt barn foreløpig! De får en "foreldrekode" sammen med opplæring når de er på Rikshospitalet.</span></p>
+<p><strong><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit;">Tips til veiledning med HOBS</span></strong></p>
+<p><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Vi anbefaler at du laster opp HOBS på egen telefon hvis du skal veilede foreldre. I linken under finner du en <strong>e-læring</strong> som kan hjelpe deg å bli kjent med hvordan du kan støtte foreldrene som har fått applikasjonen. (Legges ut i mars/april 2022)</span></p>
+<p><strong>Uønsket hendelse</strong></p>
+<p>Dersom du ønsker å melde en uønsket hendelse som du mener har oppstått pga HOBS kan dette gjøres på denne <a href="https://nettskjema.no/a/239599" target="_blank" rel="noopener noreferrer">linken</a>. Linken går via nettskjema til et informasjonssikkert lagringssted og håndteres fortløpende av et "safety board" som er etablert i forbindelse med studien.</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Foreldre og pårørende</title>
+        <author>
+            <name>Henning Harmens</name>
+        </author>
+        <link href="https://hobs.no/foreldre-og-parorende.html"/>
+        <id>https://hobs.no/foreldre-og-parorende.html</id>
+
+        <updated>2022-03-01T10:39:26+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://hobs.no/media/posts/7/iStock-829378958.jpg" alt="" />
+                    HOBS-baby undersøkes i et forskningsprosjekt og er kun tilgjengelig for foreldre med barn med alvorlig medfødt hjertefeil/sykdom som deltar i prosjektet. Vi antar å holde på med inkludering ved Rikshospitalet fra april-desember 2022. Som bruker av HOBS skal du allerede ha fått informasjon og veiledning&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://hobs.no/media/posts/7/iStock-829378958.jpg" alt="" />
+                <p>HOBS-baby undersøkes i et forskningsprosjekt og er kun tilgjengelig for foreldre med barn med alvorlig medfødt hjertefeil/sykdom som deltar i prosjektet. Vi antar å holde på med inkludering ved Rikshospitalet fra april-desember 2022.</p>
+<p>Som bruker av HOBS skal du allerede ha fått informasjon og veiledning av helsepersonell på Rikshospitalet om hvordan appen kan brukes. Vi anbefaler å samarbeide med lokalt helsepersonell for å tilpasse og oppdatere appen underveis, da barnets normale tilstand vil endre seg etter hvert.</p>
+<figure class="post__image"><img loading="lazy"  src="https://hobs.no/media/posts/7/IMG_20220224_130129-2-2.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://hobs.no/media/posts/7/responsive/IMG_20220224_130129-2-2-xs.jpg 300w ,https://hobs.no/media/posts/7/responsive/IMG_20220224_130129-2-2-sm.jpg 480w ,https://hobs.no/media/posts/7/responsive/IMG_20220224_130129-2-2-md.jpg 768w ,https://hobs.no/media/posts/7/responsive/IMG_20220224_130129-2-2-lg.jpg 1024w ,https://hobs.no/media/posts/7/responsive/IMG_20220224_130129-2-2-xl.jpg 1360w ,https://hobs.no/media/posts/7/responsive/IMG_20220224_130129-2-2-2xl.jpg 1600w"  alt="Illustrasjonsfoto Elin Hjorth-Johansen" width="5861" height="4875"></figure>
+<p><strong>Informasjonssikkerhet og personvern</strong></p>
+<p>For å sikre at informasjon som legges inn i HOBS ikke skal sees av andre, er informasjonen du legger inn kryptert. I tillegg deler ikke appen noe opplysninger med andre mobiler eller andre enheter. Det er derfor ikke mulig for helsepersonell å se det som legges inn i appen, med mindre du viser innholdet til helsepersonell ved oppmøte. Det er heller ikke mulig å dele informasjonen du legger inn med din partner dersom dere begge ønsker å ha HOBS på egen mobil. Det er likevel mulig å ha hver deres app. Med disse sikkerhetstiltakene er applikasjonen godkjent i forhold til personvern og informasjonssikkerhet av Oslo Universitetssykehus (OUS), og kan trygt brukes uten fare for at opplysninger blir delt med uvedkommende. </p>
+<p>Da dere ble med i studien skrev dere under på et samtykkeskriv. <a href="https://hobs.no/Samtykke foreldre kontrollert studie 08.03.21.doc">Her kan du se samtykkeskrivet</a> , og du kan også lese mer om studien <a href="https://hobs.no/om-oss.html">her</a></p>
+<p><strong>Melding om uønsket hendelse</strong></p>
+<p>Dersom du ønsker å melde en viktig hendelse som dere mener har oppstått pga HOBS kan dette gjøres på denne <a href="https://nettskjema.no/a/239599">linken</a>. Andre ønsker om endring eller tips til oss kan gjøres <a href="https://hobs.no/kontakt.html">her</a>. </p>
+<p><strong>Mobilbruk og samspill</strong></p>
+<p>HOBS gir deg ingen varsler eller påminnelser, og du kan gjøre registreringer av barnet ditt når det sover. Vi mener derfor at HOBS ikke behøver å forstyrre samspillet med barnet ditt. Vær likevel oppmerksom på at samspill kan forstyrres av mye mobilbruk når barnet ditt er våkent. På helsestasjonen vil du få råd om dette, men du kan også lese plakaten som er laget av Landsgruppen for helsesykepleiere <a href="https://hobs.no/media/files/mobilbr">her</a>.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>HOBS</title>
         <author>
             <name>Henning Harmens</name>
@@ -40,18 +111,20 @@
         <link href="https://hobs.no/hobs.html"/>
         <id>https://hobs.no/hobs.html</id>
 
-        <updated>2021-06-10T08:54:56+02:00</updated>
+        <updated>2022-03-01T11:13:06+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://hobs.no/media/posts/6/Bilde_bakgr_app.jpg" alt="" />
-                    Denne nettsiden er en hjelpeside til appen HOBS. HOBS er en forkortelse for Hjerte OBServasjons-app (Heart OBServation-app), og holder på å utvikles for foreldre til barn med medfødt hjertefeil og/eller hjertesykdom. Den blir utviklet i samarbeid mellom Foreningen for hjertesyke barn (FFHB), Barnekardiologisk avdeling og&hellip;
+                    Denne nettsiden er en hjelpeside til appen HOBS baby. HOBS er en forkortelse for Hjerte OBServasjons-app (Heart OBServation-app). Appen er under utvikling og skal brukes av foreldre til barn med alvorlig medfødt hjertefeil og/eller hjertesykdom. HOBS evalueres for tiden i et forskningsprosjekt om nytteverdi for&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://hobs.no/media/posts/6/Bilde_bakgr_app.jpg" alt="" />
-                <p><span style="font-weight: 400;">Denne nettsiden er en hjelpeside til appen HOBS. HOBS er en forkortelse for  Hjerte OBServasjons-app (Heart OBServation-app), og holder på å utvikles for foreldre til barn med medfødt hjertefeil og/eller hjertesykdom. Den blir utviklet i samarbeid mellom Foreningen for hjertesyke barn (FFHB), Barnekardiologisk avdeling og Nyfødtintensiv avdeling på Rikshospitalet (OUS) og Hena.AS.</span></p>
-<p><span style="font-weight: 400;">HOBS evalueres for tiden i et forskningsprosjekt om nytteverdi for foreldre og helsepersonell.  Hvordan forskningsprosjektet skal gjennomføres og hvor langt vi har kommet kan du lese </span><span style="font-weight: 400;"><a href="https://hobs.no/om-oss.html">her.</a></span></p>
+                <p><span style="font-weight: 400;">Denne nettsiden er en hjelpeside til appen HOBS baby. HOBS er en forkortelse for  <strong>H</strong>jerte <strong>OBS</strong>ervasjons-app (Heart OBServation-app). Appen er under utvikling og skal brukes av foreldre til barn med alvorlig medfødt hjertefeil og/eller hjertesykdom. </span></p>
+<p><span style="font-weight: 400;"><span style="font-weight: 400;">HOBS evalueres for tiden i et forskningsprosjekt om nytteverdi for foreldre og helsepersonell.  Hvordan forskningsprosjektet skal gjennomføres og hvor langt vi har kommet kan du lese </span><span style="font-weight: 400;"><a href="https://hobs.no/om-oss.html" style="border-bottom: 3px solid rgba(var(--yellow), 1);">her.</a></span></span></p>
+<p><span style="font-weight: 400;">Appen blir utviklet i samarbeid mellom Foreningen for hjertesyke barn (FFHB), Barnekardiologisk avdeling og Nyfødtintensiv avdeling på Rikshospitalet (OUS). Systemutvikler er Hena.AS.</span></p>
+<p>Innhold i informasjonslinker som ligger i HOBS er et resultat av samarbeidsprosjekter mellom Rikshospitalet, nasjonale nettverk og Foreningen for hjertesykebarn. Grunnlag for valg av råd og tips i appen er basert på nasjonale anbefalinger i <a href="https://www.helsebiblioteket.no/pediatriveiledere" target="_blank" rel="noopener noreferrer">pediatriveilederen</a> så langt det har vært mulig.  </p>
             ]]>
         </content>
     </entry>
@@ -63,7 +136,7 @@
         <link href="https://hobs.no/om-oss.html"/>
         <id>https://hobs.no/om-oss.html</id>
 
-        <updated>2021-06-10T08:54:56+02:00</updated>
+        <updated>2022-03-01T10:14:12+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://hobs.no/media/posts/2/girl-with-a-heartshaped-stone-vignettert.jpg" alt="" />
@@ -74,28 +147,60 @@
             <![CDATA[
                     <img src="https://hobs.no/media/posts/2/girl-with-a-heartshaped-stone-vignettert.jpg" alt="" />
                 <p><strong>Utvikling av HOBS</strong></p>
-<p><span style="font-weight: 400;">Utviklingen av HOBS startet i 2019 etter en ide av Anna Harmens, tidligere sykepleier ved nyfødt intensiv ved Rikshospitalet. Foreningen for Hjertesyke barn og Barnekardiologisk avdeling ved Rikshospitalet ønsket å realisere ideen, og med økonomisk støtte fra Extrastiftelsen Dam, ble utviklingen av HOBS mulig. Utviklingen pågår i flere faser der en tverrfaglig arbeidsgruppe har videreutviklet ideen i samarbeid med systemutvikler Hena AS. Applikasjonen har blitt brukertestet av foreldre og helsepersonell i flere omganger og innspill har ført til revideringer og en applikasjon som nå evalueres i et forskningsprosjekt. </span></p>
+<p><span style="font-weight: 400;">Utviklingen av HOBS startet i 2019 etter en ide av Anna Harmens, tidligere sykepleier ved nyfødt intensiv ved Rikshospitalet. Foreningen for Hjertesyke barn og Barnekardiologisk avdeling ved Rikshospitalet ønsket å realisere ideen, og med økonomisk støtte fra Extrastiftelsen Dam, ble utviklingen av HOBS mulig. </span></p>
+<p><span style="font-weight: 400;">Utviklingen pågår i flere faser der en tverrfaglig arbeidsgruppe har videreutviklet ideen i samarbeid med systemutvikler Hena AS. Applikasjonen har blitt brukertestet av foreldre og helsepersonell i flere omganger og innspill har ført til revideringer og en applikasjon som evalueres i et forskningsprosjekt. </span></p>
 <p><strong>Utviklingsteam</strong></p>
 <p><span style="font-weight: 400;">Utviklingsteamet består av kardiolog Henrik Holmstrøm, nyfødtsykepleier Elin Hjorth-Johansen, fagsjef ved FFHB Pia Bråss og intensivsykepleier Anna Harmens. </span></p>
 <p><span style="font-weight: 400;">Løsningsarkitekt og utvikler er Henning Harmens i Hena AS, som har samarbeidet med UX-designer Snorre Berge i knirkefritt AS (<a href="https://knirkefritt.no">https://knirkefritt.no</a>). Illustratør Flu Hartberg har tegnet ikoner (<a href="http://www.fluhartberg.com">www.fluhartberg.com</a>).</span></p>
 <p><span style="font-weight: 400;">I tillegg er leger og sykepleiere tilknyttet oppfølging og behandling inkludert i en utvidet høringsgruppe. Eli Våbenø, mor til et barn med medfødt hjertefeil, bidrar i prosessen.</span></p>
 <figure class="post__image"><img loading="lazy"  src="https://hobs.no/media/posts/2/UTVIKLING-HOBS-2.pptx" alt=""></figure><figure class="post__image"><img loading="lazy"  src="https://hobs.no/media/posts/2/UTVIKLING-HOBS-2.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://hobs.no/media/posts/2/responsive/UTVIKLING-HOBS-2-xs.png 300w ,https://hobs.no/media/posts/2/responsive/UTVIKLING-HOBS-2-sm.png 480w ,https://hobs.no/media/posts/2/responsive/UTVIKLING-HOBS-2-md.png 768w ,https://hobs.no/media/posts/2/responsive/UTVIKLING-HOBS-2-lg.png 1024w ,https://hobs.no/media/posts/2/responsive/UTVIKLING-HOBS-2-xl.png 1360w ,https://hobs.no/media/posts/2/responsive/UTVIKLING-HOBS-2-2xl.png 1600w"  alt=""></figure>
 <p><strong>Forskningsprosjektet</strong></p>
-<p><span style="font-weight: 400;">HOBS skal evalueres i et forskningsprosjekt som er tilknyttet forskningsgruppen PRECISE ved Barnekardiologisk avdeling. Studien er forankret og barna inkluderes i Nyfødt intensivavdeling på Rikshospitalet der barna behandles initialt. </span></p>
-<p><span style="font-weight: 400;">For å vurdere gjennomførbarhet i helsetjenesten gjøres en kvalitativ studie med intervjuer av foreldre om brukbarhet og nytte, samt at familienes helsepersonell på OUS og lokalt intervjues for sammenligning av metoden med dagens praksis. </span></p>
-<p><span style="font-weight: 400;">Alle intervjuer er gjort og analyse av inytervjuene og revideringer av appen pågår for øyeblikket. </span></p>
-<p><span style="font-weight: 400;">Samtidig med revideringen gjennomføres nå en kontrollert studie med påfølgende grupper. Innsamling av data fra gruppen som får standard informasjon og veiledning pågår nå. Rundt jul antar vi å komme i gang med gruppen som skal få app. Studien skal se på appens effekt på stress, engstelse og helsekompetanse, samt kvalitet, årsaker og resultat av kontakt med helsevesenet sammenlignet med dagens praksis. De to studiene gir til sammen svar på om innovasjonen er bra for familiene og om helsepersonell lokalt og på OUS har bedret sin veiledning og sitt samarbeid med foreldrene.</span></p>
-<p><span style="font-weight: 400;">Studien er vurdert og godkjent av Regional etisk komité (REK) og Personvernombudet ved OUS. HOBS har fått godkjent Risikoanalyse (ROS) av Informasjonssikkerhetsavdelingen ved OUS og er vurdert til ikke å falle inn under definisjonen på medisinsk teknisk utstyr.</span></p>
-<p><span style="font-weight: 400;">Under ser du en oversikt over hele prosjektet:</span></p>
-<figure class="post__image"><img loading="lazy"  src="https://hobs.no/media/posts/2/Screen-Shot-2020-07-30-at-22.11.34.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://hobs.no/media/posts/2/responsive/Screen-Shot-2020-07-30-at-22.11.34-xs.png 300w ,https://hobs.no/media/posts/2/responsive/Screen-Shot-2020-07-30-at-22.11.34-sm.png 480w ,https://hobs.no/media/posts/2/responsive/Screen-Shot-2020-07-30-at-22.11.34-md.png 768w ,https://hobs.no/media/posts/2/responsive/Screen-Shot-2020-07-30-at-22.11.34-lg.png 1024w ,https://hobs.no/media/posts/2/responsive/Screen-Shot-2020-07-30-at-22.11.34-xl.png 1360w ,https://hobs.no/media/posts/2/responsive/Screen-Shot-2020-07-30-at-22.11.34-2xl.png 1600w"  alt="" width="889" height="538"></figure>
+<p><span style="font-weight: 400;">HOBS skal evalueres i et forskningsprosjekt som er tilknyttet forskningsgruppen PRECISE ved Barnekardiologisk avdeling. Studien er forankret i Nyfødtintensiv avdeling på Rikshospitalet der barna </span><span style="font-size: 18.4px; color: var(--text-editor-body-color); font-family: var(--font-base); font-weight: var(--font-weight-normal);">inkluderes og </span><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit;">behandles initialt</span><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit;">. </span></p>
+<p><strong>1. Forstudie</strong></p>
+<p><span style="font-weight: 400;">For å vurdere gjennomførbarhet i helsetjenesten gjøres en kvalitativ studie med intervjuer av foreldre og </span><span style="font-size: 18.4px; color: var(--text-editor-body-color); font-family: var(--font-base); font-weight: var(--font-weight-normal);">helsepersonell (på OUS og lokalt)</span><span style="font-size: 18.4px; color: var(--text-editor-body-color); font-family: var(--font-base); font-weight: var(--font-weight-normal);"> </span><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit;">om brukbarhet, nytte og gjennomførbarhet. </span><span style="font-weight: 400;">Alle intervjuer er gjennomført og analyse av intervjuene og revideringer av appen pågår for øyeblikket. </span></p>
+<p><strong>2. Effektstudie</strong></p>
+<p><span style="font-weight: 400;">Samtidig med revideringen gjennomføres nå en kontrollert studie med etterfølgende grupper. Innsamling av data fra gruppen som får standard informasjon og veiledning pågår nå. I april 2022 antar vi å komme i gang med gruppen som skal få HOBS. </span></p>
+<p><span style="font-weight: 400;">Studien skal se på appens effekt sammenlignet med dagens praksis. Vi skal se på stress, engstelse og helsekompetanse, samt kvalitet, årsaker og resultat av kontakt med helsevesenet sammenlignet med dagens praksis. </span></p>
+<p><span style="font-weight: 400;">De to studiene gir til sammen svar på om HOBS er bra for familiene, og om helsepersonell har endret sin veiledning og sitt samarbeid med foreldrene.</span></p>
+<p><span style="font-weight: 400;">Studiene er vurdert og godkjent av Regional etisk komité (REK) og Personvernombudet ved OUS. HOBS har fått godkjent Risikoanalyse (ROS) av Informasjonssikkerhetsavdelingen ved OUS. Den er vurdert til ikke å falle inn under definisjonen på medisinsk teknisk utstyr.</span></p>
+<p><strong>Under ser du en oversikt over fasene i hele prosjektet:</strong></p>
+<figure class="post__image"><img loading="lazy"  src="https://hobs.no/media/posts/2/Figur-prosjektoversikt.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://hobs.no/media/posts/2/responsive/Figur-prosjektoversikt-xs.png 300w ,https://hobs.no/media/posts/2/responsive/Figur-prosjektoversikt-sm.png 480w ,https://hobs.no/media/posts/2/responsive/Figur-prosjektoversikt-md.png 768w ,https://hobs.no/media/posts/2/responsive/Figur-prosjektoversikt-lg.png 1024w ,https://hobs.no/media/posts/2/responsive/Figur-prosjektoversikt-xl.png 1360w ,https://hobs.no/media/posts/2/responsive/Figur-prosjektoversikt-2xl.png 1600w"  alt="" width="757" height="443"></figure>
 <p><strong>Forskerteam </strong></p>
-<p><span style="font-weight: 400;">Studien ledes av </span><i><span style="font-weight: 400;">Elin Hjorth-Johansen</span></i><span style="font-weight: 400;"> (MScN) som er spesialsykepleier ved nyfødt intensiv ved OUS Rikshospitalet. Hun har tidligere ledet arbeidet med utvikling av foreldreinformasjon om konsekvenser av medfødt hjertefeil og legemidler til barn med hjertesykdom. </span></p>
-<p><span style="font-weight: 400;">Professor </span><i><span style="font-weight: 400;">Henrik Holmstrøm</span></i><span style="font-weight: 400;"> (overlege) er leder for <a href="https://www.med.uio.no/klinmed/forskning/grupper/precise/">PRECISE</a>. Han har solid bakgrunn med forskning innen medfødt hjertefeil. Holmstrøm behandler og utreder barn med hjertefeil og samarbeider daglig med foreldrene. </span></p>
-<p><span style="font-weight: 400;">Professor </span><i><span style="font-weight: 400;">Anne Moen</span></i><span style="font-weight: 400;"> (PhD, sykepleier) arbeider på Institutt for helse og samfunn, på Universitetet i Oslo. Hun har omfattende forsknings- og prosjekterfaring med utprøving og innovasjon med digitale innbyggertjenester. </span></p>
-<p><span style="font-weight: 400;">Seniorforsker </span><i><span style="font-weight: 400;">Elin Børøsund </span></i><span style="font-weight: 400;">(PhD, sykepleier) jobber ved <a href="https://www.digitalhealth.no/">Avdeling for digital helseforskning</a> ved OUS </span><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit;">innen utvikling, testing og implementering av komplekse eHelse intervensjoner. </span></p>
-<p>Masterstudent Ingeborg Martinsen er spesialsykepleier ved nyfødt intensiv ved Rikshospitalet og skal analysere sykepleiernes erfaringer med HOBS ved  Rikshospitalet. </p>
-<p> </p>
-<p> </p>
+<p><span style="font-weight: 400;">Studien ledes av </span><strong><i>Elin Hjorth-Johansen</i></strong><span style="font-weight: 400;"> (MScN) som er stipendiat og spesialsykepleier ved nyfødt intensiv ved OUS Rikshospitalet. Hun har tidligere ledet arbeidet med utvikling av foreldreinformasjon om konsekvenser av medfødt hjertefeil og legemidler til barn med hjertesykdom. </span></p>
+<p><span style="font-weight: 400;">Professor </span><strong><i>Henrik Holmstrøm</i></strong><span style="font-weight: 400;"> (overlege) er leder for <a href="https://www.med.uio.no/klinmed/forskning/grupper/precise/">PRECISE</a>. Han har solid bakgrunn med forskning innen medfødt hjertefeil. Holmstrøm behandler og utreder barn med hjertefeil og samarbeider daglig med foreldrene. </span></p>
+<p><span style="font-weight: 400;">Professor </span><strong><i>Anne Moen</i></strong><span style="font-weight: 400;"> (PhD, sykepleier) arbeider på Institutt for helse og samfunn på Universitetet i Oslo. Hun har omfattende forsknings- og prosjekterfaring med utprøving og innovasjon med digitale innbyggertjenester. </span></p>
+<p><span style="font-weight: 400;">Seniorforsker </span><strong><i>Elin Børøsund </i></strong><span style="font-weight: 400;">(PhD, sykepleier) jobber ved <a href="https://www.digitalhealth.no/">Avdeling for digital helseforskning</a> ved OUS </span><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit;">innen utvikling, testing og implementering av komplekse eHelse intervensjoner. </span></p>
+<p>Masterstudent <strong><em>Ingeborg Martinsen</em></strong> er spesialsykepleier ved nyfødt intensiv ved Rikshospitalet og skal analysere sykepleiernes erfaringer med HOBS ved  Rikshospitalet. </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Kontakt</title>
+        <author>
+            <name>Henning Harmens</name>
+        </author>
+        <link href="https://hobs.no/kontakt.html"/>
+        <id>https://hobs.no/kontakt.html</id>
+
+        <updated>2022-03-01T10:47:49+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://hobs.no/media/posts/1/iStock-618545588.jpg" alt="" />
+                    Tekniske henvendelser Ved tekniske spørsmål, tilbakemeldinger eller behov for kontakt med utviklingsteamet kan du sende mail til følgende adresse: hei@hobs.no Spørsmål om praktisk bruk og om forskningsstudien Har du spørsmål til valg av innstillinger i HOBS, din deltagelse i studien eller behov for å snakke&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://hobs.no/media/posts/1/iStock-618545588.jpg" alt="" />
+                <p><span style="color: #236fa1;"><strong>Tekniske henvendelser</strong></span></p>
+<p>Ved tekniske spørsmål, tilbakemeldinger eller behov for kontakt med utviklingsteamet kan du sende mail til følgende adresse: <a href="mailto:hei@hobs.no">hei@hobs.no</a> </p>
+<p><span style="color: #236fa1;"><strong>Spørsmål om praktisk bruk og om forskningsstudien</strong></span></p>
+<p>Har du spørsmål til valg av innstillinger i HOBS, din deltagelse i studien eller behov for å snakke med forskningsgruppen generelt kan du ringe  prosjektkoordinator Elin Hjorth-Johansen på tlf: 986 76 884, eller sende mail til <a href="mailto:ehjorth@ous-hf.no">ehjorth@ous-hf.no</a>.</p>
+<p><span style="color: #236fa1;"><strong>Barnets Helse</strong></span></p>
+<p>Dersom det er behov direkte rettet mot ditt barns helsetilstand ber vi om at du tar kontakt med barnets behandler.</p>
+<p><span style="color: #236fa1;"><strong>Uønsket hendelse</strong></span></p>
+<p>Dersom du ønsker å melde en uønsket hendelse som du mener har oppstått pga HOBS kan dette gjøres på denne <a href="https://nettskjema.no/a/239599" target="_blank" rel="noopener noreferrer">linken</a>. Linken går via nettskjema til et informasjonssikkert lagringssted og håndteres innen kort tid av et "safety board" som er etablert i forbindelse med studien.</p>
+<figure class="post__image"><img loading="lazy"  src="https://hobs.no/media/posts/1/iStock-625758072.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://hobs.no/media/posts/1/responsive/iStock-625758072-xs.jpg 300w ,https://hobs.no/media/posts/1/responsive/iStock-625758072-sm.jpg 480w ,https://hobs.no/media/posts/1/responsive/iStock-625758072-md.jpg 768w ,https://hobs.no/media/posts/1/responsive/iStock-625758072-lg.jpg 1024w ,https://hobs.no/media/posts/1/responsive/iStock-625758072-xl.jpg 1360w ,https://hobs.no/media/posts/1/responsive/iStock-625758072-2xl.jpg 1600w"  alt=""></figure>
             ]]>
         </content>
     </entry>
