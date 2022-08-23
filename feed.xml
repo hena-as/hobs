@@ -3,7 +3,7 @@
     <title>HOBS</title>
     <link href="https://hobs.no/feed.xml" rel="self" />
     <link href="https://hobs.no" />
-    <updated>2022-04-18T15:57:23+02:00</updated>
+    <updated>2022-08-23T09:42:05+02:00</updated>
     <author>
         <name>Henning Harmens</name>
     </author>
@@ -136,7 +136,7 @@
         <link href="https://hobs.no/om-oss.html"/>
         <id>https://hobs.no/om-oss.html</id>
 
-        <updated>2022-04-18T15:57:23+02:00</updated>
+        <updated>2022-08-23T09:42:05+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://hobs.no/media/posts/2/girl-with-a-heartshaped-stone-vignettert.jpg" alt="" />
@@ -157,7 +157,14 @@
 <p><strong>Forskningsprosjektet</strong></p>
 <p><span style="font-weight: 400;">HOBS skal evalueres i et forskningsprosjekt som er tilknyttet forskningsgruppen PRECISE ved Barnekardiologisk avdeling. Studien er forankret i Nyfødtintensiv avdeling på Rikshospitalet der barna </span><span style="font-size: 18.4px; color: var(--text-editor-body-color); font-family: var(--font-base); font-weight: var(--font-weight-normal);">inkluderes og </span><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit;">behandles initialt</span><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit;">. </span></p>
 <p><strong>1. Forstudie</strong></p>
-<p><span style="font-weight: 400;">For å vurdere gjennomførbarhet i helsetjenesten gjøres en kvalitativ studie med intervjuer av foreldre og </span><span style="font-size: 18.4px; color: var(--text-editor-body-color); font-family: var(--font-base); font-weight: var(--font-weight-normal);">helsepersonell (på OUS og lokalt)</span><span style="font-size: 18.4px; color: var(--text-editor-body-color); font-family: var(--font-base); font-weight: var(--font-weight-normal);"> </span><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit;">om brukbarhet, nytte og gjennomførbarhet. </span><span style="font-weight: 400;">Alle intervjuer er gjennomført og analyse av intervjuene og revideringer av appen pågår for øyeblikket. </span></p>
+<p><span style="font-weight: 400;">For å vurdere gjennomførbarhet i helsetjenesten gjøres en kvalitativ studie med intervjuer av foreldre og </span><span style="font-size: 18.4px; color: var(--text-editor-body-color); font-family: var(--font-base); font-weight: var(--font-weight-normal);">helsepersonell (på OUS og lokalt)</span><span style="font-size: 18.4px; color: var(--text-editor-body-color); font-family: var(--font-base); font-weight: var(--font-weight-normal);"> </span><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit;">om brukbarhet, nytte og gjennomførbarhet. </span><span style="font-weight: 400;">Alle intervjuer er gjennomført og analyse av intervjuene og revideringer av appen pågår for øyeblikket.</span></p>
+<p><strong>Første artikkel</strong> fra forstudien er ute i tidsskriftet <strong>Cardiology in the Young</strong>. I linken under kan du lese om:</p>
+<ul>
+<li>Hvordan HOBS er blitt utviklet</li>
+<li>Hva foreldre og sykepleiere som brukte appen mente om funksjonene i HOBS</li>
+<li>Hvilke endringer som ble gjort basert på dette</li>
+</ul>
+<p>Artikkel: <a href="#INTERNAL_LINK#/post/null">Heart Observation app - Development of a decision support tool for parents of infants with severe cardiac disease</a></p>
 <p><strong>2. Effektstudie</strong></p>
 <p><span style="font-weight: 400;">Samtidig med revideringen gjennomføres nå en kontrollert studie med etterfølgende grupper. Innsamling av data fra gruppen som får standard informasjon og veiledning ble sluttført før påske2022. I mai 2022 starter vi å inkludere familier i gruppen som skal få HOBS. </span></p>
 <p><span style="font-weight: 400;">Studien skal se på appens effekt sammenlignet med dagens praksis. Vi skal se på stress, engstelse og helsekompetanse, samt kvalitet, årsaker og resultat av kontakt med helsevesenet sammenlignet med dagens praksis. </span></p>
