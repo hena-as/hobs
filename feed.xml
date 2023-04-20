@@ -3,7 +3,7 @@
     <title>HOBS</title>
     <link href="https://hobs.no/feed.xml" rel="self" />
     <link href="https://hobs.no" />
-    <updated>2022-08-30T14:42:40+02:00</updated>
+    <updated>2023-04-20T16:14:39+02:00</updated>
     <author>
         <name>Henning Harmens</name>
     </author>
@@ -40,7 +40,7 @@
         <link href="https://hobs.no/helsepersonell.html"/>
         <id>https://hobs.no/helsepersonell.html</id>
 
-        <updated>2022-04-18T15:45:13+02:00</updated>
+        <updated>2023-04-20T16:14:39+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://hobs.no/media/posts/8/lytte-med-stetoskop-9.8.jpeg" alt="" />
@@ -65,7 +65,10 @@
 <figure class="post__image"><img loading="lazy"  src="https://hobs.no/media/posts/8/DSC00219-2.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://hobs.no/media/posts/8/responsive/DSC00219-2-xs.jpg 300w ,https://hobs.no/media/posts/8/responsive/DSC00219-2-sm.jpg 480w ,https://hobs.no/media/posts/8/responsive/DSC00219-2-md.jpg 768w ,https://hobs.no/media/posts/8/responsive/DSC00219-2-lg.jpg 1024w ,https://hobs.no/media/posts/8/responsive/DSC00219-2-xl.jpg 1360w ,https://hobs.no/media/posts/8/responsive/DSC00219-2-2xl.jpg 1600w"  alt="Illustrasjonsfoto Elin Hjorth-Johansen" width="4087" height="2296"></figure>
 <p><strong>Tilgang til HOBS-App</strong><br>Helsepersonell får <span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">tilgang til en kode til HOBS via sin leder/fagsykepleier eller ved å <a href="https://hobs.no/kontakt.html">kontakte oss i prosjektet</a>. Det er viktig at denne koden ikke deles med foreldre fordi HOBS ikke er ferdig kvalitetssikret og evaluert. Det  er </span><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">bare </span><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">foreldre i forskningsprosjektet som skal bruke appen til sitt barn foreløpig! De får en "foreldrekode" sammen med opplæring når de er på Rikshospitalet.</span></p>
 <p><strong><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit;">Tips til veiledning med HOBS</span></strong></p>
-<p><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Vi anbefaler at du laster opp HOBS på egen telefon hvis du skal veilede foreldre. I denne <a href="https://kursbygger.ihelse.net/?startcourseid=1295&amp;tracking">linken</a> under finner du en <strong>e-læring</strong> som kan hjelpe deg å bli kjent med hvordan du kan støtte foreldrene som har fått applikasjonen. (Legges ut i mars/april 2022)</span></p>
+<p><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Vi anbefaler at du laster opp HOBS på egen telefon hvis du skal veilede foreldre. I  <a href="https://kursbygger.ihelse.net/?startcourseid=1295&amp;tracking">linken</a> under finner du en <strong>e-læring</strong> som kan hjelpe deg å bli kjent med hvordan du kan støtte foreldrene som ønsker å bruke appen. Tips til hvordan du kan veilede i ulike deler av helsetjenestene finner du under:</span></p>
+<p><a href="https://hobs.no/Tips for HOBS veiledning lokalsykehus 02.06.22.pptx">Sykepleier på lokalsykehus</a></p>
+<p><a href="https://hobs.no/Tips for HOBS bruk på poliklinikk 29.05.22.pptx">Tips til poliklinisk oppfølging</a> </p>
+<p><a href="https://hobs.no/Tips for HOBS bruk på helsestasjon 05.05.22.pptx">Tips til bruk på helsestasjon</a></p>
 <p><strong>Uønsket hendelse</strong></p>
 <p>Dersom du ønsker å melde en uønsket hendelse som du mener har oppstått pga HOBS kan dette gjøres på denne <a href="https://nettskjema.no/a/239599" target="_blank" rel="noopener noreferrer">linken</a>. Linken går via nettskjema til et informasjonssikkert lagringssted og håndteres fortløpende av et "safety board" som er etablert i forbindelse med studien.</p>
 <p> </p>
@@ -138,7 +141,7 @@
         <link href="https://hobs.no/om-oss.html"/>
         <id>https://hobs.no/om-oss.html</id>
 
-        <updated>2022-08-23T09:42:05+02:00</updated>
+        <updated>2023-04-20T15:33:19+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://hobs.no/media/posts/2/girl-with-a-heartshaped-stone-vignettert.jpg" alt="" />
@@ -167,8 +170,14 @@
 <li>Hvilke endringer som ble gjort basert på dette</li>
 </ul>
 <p>Artikkel: <a href="#INTERNAL_LINK#/post/null">Heart Observation app - Development of a decision support tool for parents of infants with severe cardiac disease</a></p>
+<p><strong>Andre artikkel</strong> fra forstudien er ute i tidsskriftet <strong>Journal of Medical Internet Research (JMIR)</strong>. I linken kan du lese om:</p>
+<ul>
+<li>Hvordan 9 familier og deres helsepersonell opplevde å bruke HOBS på sykehuset og etter utskrivelse</li>
+<li>Hvordan HOBS implementeres i helsetjenestene i effektstudien</li>
+</ul>
+<p>Artikkel:<a href="https://formative.jmir.org/2023/1/e45920?__hstc=102212634.922ed15d4d7499bde8af68a05d16b67b.1681997095350.1681997095350.1681997095350.1&amp;__hssc=102212634.3.1681997095351&amp;__hsfp=2319840826" class="title-link" data-v-3802195d="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);"><span data-v-3802195d="">Acceptability and Initial Adoption of the Heart Observation App for Infants With Congenital Heart Disease: Qualitative Study</span></a></p>
 <p><strong>2. Effektstudie</strong></p>
-<p><span style="font-weight: 400;">Samtidig med revideringen gjennomføres nå en kontrollert studie med etterfølgende grupper. Innsamling av data fra gruppen som får standard informasjon og veiledning ble sluttført før påske2022. I mai 2022 starter vi å inkludere familier i gruppen som skal få HOBS. </span></p>
+<p><span style="font-weight: 400;">Samtidig med revideringen gjennomføres nå en kontrollert studie med etterfølgende grupper. Innsamling av data fra gruppen som får standard informasjon og veiledning ble sluttført før påske2022. I mai 2022 startet vi å inkludere familier i gruppen som skal få HOBS. </span></p>
 <p><span style="font-weight: 400;">Studien skal se på appens effekt sammenlignet med dagens praksis. Vi skal se på stress, engstelse og helsekompetanse, samt kvalitet, årsaker og resultat av kontakt med helsevesenet sammenlignet med dagens praksis. </span></p>
 <p><span style="font-weight: 400;">De to studiene gir til sammen svar på om HOBS er bra for familiene, og om helsepersonell har endret sin veiledning og sitt samarbeid med foreldrene.</span></p>
 <p><span style="font-weight: 400;">Studiene er vurdert og godkjent av Regional etisk komité (REK) og Personvernombudet ved OUS. HOBS har fått godkjent Risikoanalyse (ROS) av Informasjonssikkerhetsavdelingen ved OUS. Den er vurdert til ikke å falle inn under definisjonen på medisinsk teknisk utstyr.</span></p>
