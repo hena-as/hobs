@@ -3,7 +3,7 @@
     <title>HOBS</title>
     <link href="https://hobs.no/feed.xml" rel="self" />
     <link href="https://hobs.no" />
-    <updated>2023-04-20T16:52:34+02:00</updated>
+    <updated>2023-06-11T18:46:21+02:00</updated>
     <author>
         <name>Henning Harmens</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://hobs.no/privacy.html"/>
         <id>https://hobs.no/privacy.html</id>
 
-        <updated>2020-09-08T12:17:30+02:00</updated>
+        <updated>2023-06-11T18:33:58+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://hobs.no/media/posts/10/FFHB_symbol_roed_graa.jpg" alt="" />
@@ -141,7 +141,7 @@
         <link href="https://hobs.no/om-oss.html"/>
         <id>https://hobs.no/om-oss.html</id>
 
-        <updated>2023-04-20T15:33:19+02:00</updated>
+        <updated>2023-06-11T18:43:26+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://hobs.no/media/posts/2/girl-with-a-heartshaped-stone-vignettert.jpg" alt="" />
@@ -153,7 +153,7 @@
                     <img src="https://hobs.no/media/posts/2/girl-with-a-heartshaped-stone-vignettert.jpg" alt="" />
                 <p><strong>Utvikling av HOBS</strong></p>
 <p><span style="font-weight: 400;">Utviklingen av HOBS startet i 2019 etter en ide av Anna Harmens, tidligere sykepleier ved nyfødt intensiv ved Rikshospitalet. Foreningen for Hjertesyke barn og Barnekardiologisk avdeling ved Rikshospitalet ønsket å realisere ideen, og med økonomisk støtte fra Extrastiftelsen Dam, ble utviklingen av HOBS mulig. </span></p>
-<p><span style="font-weight: 400;">Utviklingen pågår i flere faser der en tverrfaglig arbeidsgruppe har videreutviklet ideen i samarbeid med systemutvikler Hena AS. Applikasjonen har blitt brukertestet av foreldre og helsepersonell i flere omganger og innspill har ført til revideringer og en applikasjon som nå evalueres i et forskningsprosjekt. </span></p>
+<p><span style="font-weight: 400;">Utviklingen pågår i flere faser der en tverrfaglig arbeidsgruppe har videreutviklet ideen i samarbeid med systemutvikler Hena AS. Applikasjonen har blitt brukertestet av foreldre og helsepersonell i flere omganger og innspill har ført til revideringer og en applikasjon som nå evalueres i et forskningsprosjekt. Etter endt studie vil Foreningen for hjertesyke barn være eier av HOBS.</span></p>
 <p><strong>Utviklingsteam</strong></p>
 <p><span style="font-weight: 400;">Utviklingsteamet består av kardiolog Henrik Holmstrøm, nyfødtsykepleier Elin Hjorth-Johansen, fagsjef ved FFHB Pia Bråss og intensivsykepleier Anna Harmens. </span></p>
 <p><span style="font-weight: 400;">Løsningsarkitekt og utvikler er Henning Harmens i Hena AS, som har samarbeidet med UX-designer Snorre Berge i knirkefritt AS (<a href="https://knirkefritt.no">https://knirkefritt.no</a>). Illustratør Flu Hartberg har tegnet ikoner (<a href="http://www.fluhartberg.com">www.fluhartberg.com</a>).</span></p>
@@ -177,8 +177,8 @@
 </ul>
 <p>Artikkel:<a href="https://formative.jmir.org/2023/1/e45920?__hstc=102212634.922ed15d4d7499bde8af68a05d16b67b.1681997095350.1681997095350.1681997095350.1&amp;__hssc=102212634.3.1681997095351&amp;__hsfp=2319840826" class="title-link" data-v-3802195d="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);"><span data-v-3802195d="">Acceptability and Initial Adoption of the Heart Observation App for Infants With Congenital Heart Disease: Qualitative Study</span></a></p>
 <p><strong>2. Effektstudie</strong></p>
-<p><span style="font-weight: 400;">Samtidig med revideringen gjennomføres nå en kontrollert studie med etterfølgende grupper. Innsamling av data fra gruppen som får standard informasjon og veiledning ble sluttført før påske2022. I mai 2022 startet vi å inkludere familier i gruppen som skal få HOBS. </span></p>
-<p><span style="font-weight: 400;">Studien skal se på appens effekt sammenlignet med dagens praksis. Vi skal se på stress, engstelse og helsekompetanse, samt kvalitet, årsaker og resultat av kontakt med helsevesenet sammenlignet med dagens praksis. </span></p>
+<p><span style="font-weight: 400;">Samtidig med revideringen gjennomføres nå en kontrollert studie med etterfølgende grupper. Innsamling av data fra gruppen som får standard informasjon og veiledning ble sluttført før påske2022. I mai 2022 startet vi å inkludere familier i gruppen som skal få HOBS. Inkluderingen er nå sluttført og innsamling av data vil være ferdig i september.</span></p>
+<p><span style="font-weight: 400;">Studien skal se på appens effekt sammenlignet med dagens praksis. Vi skal se på nytte, stress, engstelse og helsekompetanse, samt kvalitet, årsaker og resultat av kontakt med helsevesenet sammenlignet med dagens praksis. </span></p>
 <p><span style="font-weight: 400;">De to studiene gir til sammen svar på om HOBS er bra for familiene, og om helsepersonell har endret sin veiledning og sitt samarbeid med foreldrene.</span></p>
 <p><span style="font-weight: 400;">Studiene er vurdert og godkjent av Regional etisk komité (REK) og Personvernombudet ved OUS. HOBS har fått godkjent Risikoanalyse (ROS) av Informasjonssikkerhetsavdelingen ved OUS. Den er vurdert til ikke å falle inn under definisjonen på medisinsk teknisk utstyr.</span></p>
 <p><strong>Under ser du en oversikt over fasene i hele prosjektet:</strong></p>
@@ -200,7 +200,7 @@
         <link href="https://hobs.no/kontakt.html"/>
         <id>https://hobs.no/kontakt.html</id>
 
-        <updated>2022-04-18T15:49:01+02:00</updated>
+        <updated>2023-06-11T18:46:21+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://hobs.no/media/posts/1/iStock-618545588.jpg" alt="" />
